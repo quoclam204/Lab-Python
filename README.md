@@ -13,5 +13,5 @@ Repository chứa các bài Lab Python, bao gồm các chủ đề về xử lý
 📂 `file-excel-lab06/sales_data.xlsx` - Dữ liệu doanh số bán hàng  
 
 ### 🔹Cài đặt môi trường
-# pip install pyodbc - Lab05
-# pip install pandas - Lab06
+- `pip install pyodbc` - Lab05  
+- `pip install pandas` - Lab06  
